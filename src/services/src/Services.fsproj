@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AwsTypes.fs" />
+    <Compile Include="Shared.fs" />
+    <Compile Include="Services.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Fable.Core" Version="3.1.5" />
+    <PackageReference Include="Fable.Parsimmon" Version="4.1.0" />
+    <PackageReference Include="Fable.Promise" Version="2.0.0" />
+    <PackageReference Include="Fable.Fetch" Version="2.0.0" />
+    <PackageReference Include="Fable.SimpleJson" Version="3.11.0" />
+  </ItemGroup>
+</Project>

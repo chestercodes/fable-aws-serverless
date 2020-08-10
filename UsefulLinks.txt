@@ -1,0 +1,9 @@
+https://www.serverless.com/blog/serverless-api-gateway-domain
+
+https://stackoverflow.com/questions/42818724/cloudfront-and-api-gateway-service-on-same-domain
+
+https://advancedweb.hu/how-to-route-to-multiple-origins-with-cloudfront/ 
+
+https://stackoverflow.com/a/32825414/4854368
+
+https://apimeister.com/2017/05/09/hosting-a-cloudfront-site-with-s3-and-api-gateway.html
